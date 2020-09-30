@@ -1,0 +1,30 @@
+#madeanime {
+    color:red;
+    text-align: center;
+    font-family: sans-serif;
+}
+body{
+    background-color: indigo;
+}
+p{
+    color: ivory;
+    border-style: dashed;
+    font-size: 30px;
+    background-color:yellowgreen;
+}
+#release-date{
+    color: lightcoral;
+}
+ol{
+    text-align: center;
+    font-size: 24px;
+}
+ul{
+    text-align: center;
+    font-size: 24px;
+}
+.great
+{
+    color: lightsalmon;
+    font-size: 24px;
+}
